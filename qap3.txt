@@ -1,0 +1,36 @@
+Instructions: Your name: Harini Manohar
+You are allowed to complete the assessment problems below in whatever way you can but please answer the following questions/points as part of your submission:
+
+1.	How many hours did it take you to complete this assessment? (Please keep try to keep track of how many hours you have spent working on each individual part of this assessment as best you can - an estimation is fine; we just want a rough idea.)
+Answer: 
+	•	Understanding the requirements: ~2 hours
+	•	Setting up the project structure (React App creation and dependency setup): ~3 hours
+	•	Writing and debugging the components (App.js, BreedSelector.js, ImageGallery.js): ~5 hours
+	•	Styling and adding features like search, pagination, favorites, and slideshow: ~6 hours
+	•	Resolving technical issues (dependency warnings, npm audit, OpenSSL error, etc.): ~4 hours
+	•	Testing and finalizing the project for submission: ~2 hours
+Total: ~22 hours (approx.)
+
+2.	What online resources you have used? (My lectures, YouTube, Stack overflow etc.)
+Answer:
+	•	Your lectures and class notes
+	•	YouTube tutorials on React and CSS
+	•	Stack Overflow for debugging issues
+	•	React documentation for hooks and component structure
+	•	Dog CEO API Documentation for API integration
+	•	MDN Web Docs for JavaScript and CSS
+
+3.	Did you need to ask any of your friends in solving the problems. (If yes, please mention name of the friend. They must be amongst your class fellows.)
+Answer:
+No
+
+4.	Did you need to ask questions to any of your instructors? If so, how many questions did you ask (or how many help sessions did you require)?
+Answer:
+No
+
+5.	Rate (subjectively) the difficulty of Making this all! from your own perspective, and whether you feel confident that you can solve a similar but different problem requiring some of the same techniques in the future now that you’ve completed this one.
+Answer:
+Difficulty: 7/10
+	•	The project was moderately challenging.
+	•	The most difficult parts were handling dependency warnings and implementing advanced features like search and pagination.
+	•	Confidence Level: After completing this, I feel confident that I can tackle similar problems, particularly involving API integration, component-based design in React, and debugging issues in a React project.
